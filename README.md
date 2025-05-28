@@ -8,4 +8,4 @@ Creative and detail-oriented Front-end Developer with a strong focus on building
 
 #### Familiar with
 
-<img width="200px" src="https://skillicons.dev/icons?i=sass,redux,react,electron,next,vercel,alpinejs,tailwind,figma,php,wordpress,docker,git,astro&perline=7">
+<img width="230px" src="https://skillicons.dev/icons?i=sass,redux,react,electron,next,vercel,alpinejs,tailwind,figma,php,wordpress,docker,git,astro&perline=7&theme=light">
