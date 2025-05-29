@@ -9,4 +9,4 @@ Creative and detail-oriented Front-end Developer from Greece <br/>
 
 ### 💎 Familiar with
 
-<img width="240px" src="https://skillicons.dev/icons?i=sass,redux,react,electron,next,vercel,alpinejs,tailwind,figma,php,wordpress,docker,git,astro&perline=7&theme=light">
+<img width="240px" src="https://skillicons.dev/icons?i=sass,redux,react,electron,next,vercel,alpinejs,tailwind,php,wordpress,docker,git,jest,astro&perline=7">
