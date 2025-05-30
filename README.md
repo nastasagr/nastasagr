@@ -12,4 +12,4 @@ I'M **Alexander Anastasiadis** creative and detail-oriented developer from Greec
 
 ###  Full-Stack
 
-<img width="200px" src="https://skillicons.dev/icons?i=js,ts,sass,redux,electron,react,docker,wordpress,tailwindcss,alpinejs,vercel,laravel,php,mysql,aws,firebase,arduino,git&perline=6">
+<img width="230px" src="https://skillicons.dev/icons?i=js,ts,sass,redux,electron,react,docker,wordpress,tailwindcss,alpinejs,vercel,laravel,php,mysql,aws,firebase,arduino,git&perline=6">
