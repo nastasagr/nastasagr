@@ -3,7 +3,7 @@
 
 ### 👨‍💻 About
 
-Creative and detail-oriented Front-end Developer from Greece <br/>
+Creative and detail-oriented Full Stack JavaScript Developer from Greece <br/>
  with a strong focus on building clean, scalable, and maintainable web applications. 
 
 
